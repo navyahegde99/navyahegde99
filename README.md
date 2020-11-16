@@ -1,12 +1,4 @@
 ### Hi there 👋
-### ![gmail] (https://images.app.goo.gl/ZQitBL2bRHc2gTJEA)
-### ![linked in] (https://images.app.goo.gl/wkaHnDYV59kPqjXP6)
-
-<!--
-**navyahegde99/navyahegde99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 ### 🔭 I’m currently working on Machine Learning Projects.
 ### 🌱 I’m currently learning B.tech in CSE at ***PES University***
 ## 👯 I’m looking to collaborate on data science and Machine I
