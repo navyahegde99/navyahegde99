@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### !(https://images.app.goo.gl/ZQitBL2bRHc2gTJEA)
 #### 🔭 I’m currently working on Machine Learning Projects.
 #### 🌱 I’m currently learning B.tech in CSE at ***PES University***
 #### 👯 I’m looking to collaborate on data science and Machine Intelligence models.
